@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Gracie03
+- 👀 I’m interested in buildign amazing projects ...
+- 💞️ I’m looking to collaborate on fullstack projets ...
+- 📫 How to reach me: gracealexander@gmail.com ...
+
+<!---
+Gracie03/Gracie03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
